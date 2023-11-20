@@ -1,0 +1,86 @@
+
+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
+
+EXERCICE 1
+
+4. Aucun fichier n'a été ajouté comit donc le comit est vide
+Sur la branche master
+
+Aucun commit
+
+Fichiers non suivis:
+  (utilisez "git add <fichier>..." pour inclure dans ce qui sera validé)
+	Fichier
+
+
+
+5. Le fichier est suivi
+Sur la branche master
+
+Aucun commit
+
+Modifications qui seront validées :
+  (utilisez "git rm --cached <fichier>..." pour désindexer)
+	nouveau fichier : Fichier
+
+
+7. Sur la branche master
+rien à valider, la copie de travail est propre
+
+8. Cette commande donne l'hisorique des commit du mon git
+Author: gabrielmoreaun <pltguest@pc4071.polytech.sorbonne-universite.fr>
+Date:   Mon Nov 20 14:21:49 2023 +0100
+
+    Un superMessage
+
+diff --git a/Fichier b/Fichier
+new file mode 100644
+index 0000000..e69de29
+
+
+9. La commande permet de voir les éléments ajoutés et supprimé du fichier
+
+--- a/Fichier
++++ b/Fichier
+@@ -0,0 +1 @@
++salut
+
+
+
+
+EXERCICE 2
+
+2.Les répertoire des groupe de EI
+
+
+
+
+EXERCICE3
+
+1) le & commercial permet de lancer une application en arrière plan
+
+2)Le répertoire racine est noté "~"
+
+3)"cd" permet de revenir a à a racine du compte
+
+4)La commande ls affiche TP, TP2, TP3
+
+5)"cp ../ex2.c ../Images/IMG216.jpg ." permet de copier les fichiers depuis les répertoire TP2
+
+6)Il faut ajouter le chemin du repertoire qui contient a.out dans la variable PATH.
+
+7)Elle affiche le nombre de lignes dans la sortie de la commande echo. Ici le résultat est 1
+
+8)La commande pour ne pas afficher d'erreurs dans le terminal est "commande 2>/dev/null"
+
+9)On cherche le nombre de processus en cours
+
+10)La commande qui permet d’ajouter les droits en lecture et en ecriture uniquement au groupe panda sur le fichier file1 est chmod g+rw file1
+
+11)
+3224931 Non
+3284840 Non
+4035745 Non
+4210027 Non
+3673118 Non
+
